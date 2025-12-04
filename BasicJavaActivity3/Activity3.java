@@ -1,17 +1,18 @@
 
-package com.bpi.helloworld.main;
+package com.bpi.helloworld.main.BasicJavaActivity3;
 
 import java.util.Scanner;
 
-public class Main {
+public class Activity3 {
     public static void main(String[] args) {
 
         // Open Scanner
         Scanner scanner = new Scanner(System.in);
 
         // First integer
-        System.out.print("Enter first integer: ");
-        int System.out.print("Enter second integer: ");        int firstInt = scanner.nextInt();
+        System.out.println("Enter first integer: ");
+        int firstInt = scanner.nextInt();
+        System.out.println("Enter second integer: ");        
         int secondInt = scanner.nextInt();
 
         // Calculations

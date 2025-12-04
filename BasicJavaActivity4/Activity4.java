@@ -1,9 +1,9 @@
 
-package com.bpi.helloworld.main;
+package com.bpi.helloworld.main.BasicJavaActivity4;
 
 import java.util.Scanner;
 
-public class Main {
+public class Activity4 {
     public static void main(String[] args) {
 
         // Open Scanner

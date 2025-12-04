@@ -1,7 +1,7 @@
 /**
 *
 */
-package com.bpi.helloworld.main;
+package com.bpi.helloworld.main.BasicJavaActivity1;
  
 /**
 *
@@ -9,7 +9,7 @@ package com.bpi.helloworld.main;
  
 import java.util.Scanner;
  
-public class Main {
+public class Activity1 {
  
 	public static void main(String[] args) {
  

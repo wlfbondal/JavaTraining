@@ -1,6 +1,6 @@
-package com.bpi.helloworld.main;
+package com.bpi.helloworld.main.BasicJavaActivity5;
 
-public class Activity {
+public class Activity5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

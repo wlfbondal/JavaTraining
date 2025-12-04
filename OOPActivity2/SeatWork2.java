@@ -1,4 +1,4 @@
-package com.bpi.helloworld.main;
+package com.bpi.helloworld.main.OOPActivity2;
 
 public class SeatWork2 {
     public static void main(String[] args) {
